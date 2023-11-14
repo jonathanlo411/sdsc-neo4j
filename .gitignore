@@ -1,0 +1,9 @@
+
+# Mac stuff
+.DS_Store
+
+# Notebook checkpoints
+.ipynb_checkpoints
+
+# Config
+config.json
